@@ -1,0 +1,38 @@
+[
+  {
+    "slug": "old-fashioned",
+    "title": "Old Fashioned",
+    "description": "Bourbon, sugar, bitters. Stirred and aromatic.",
+    "prep_minutes": 2,
+    "servings": 1,
+    "published": true,
+    "tags": [
+      "classic",
+      "whiskey"
+    ],
+    "ingredients": [
+      {
+        "name": "Bourbon",
+        "quantity": "2 oz"
+      },
+      {
+        "name": "Simple Syrup",
+        "quantity": "0.25 oz"
+      },
+      {
+        "name": "Angostura Bitters",
+        "quantity": "2 dashes"
+      },
+      {
+        "name": "Orange Peel",
+        "quantity": null
+      }
+    ],
+    "instructions": [
+      "Add 2 oz bourbon, 0.25 oz simple syrup, and 2 dashes Angostura bitters to a mixing glass with ice.",
+      "Stir until chilled.",
+      "Strain over a large cube in a rocks glass.",
+      "Express an orange peel and garnish."
+    ]
+  }
+]
