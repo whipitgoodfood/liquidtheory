@@ -1,0 +1,17 @@
+# dependencies
+node_modules
+# next
+.next
+out
+# env files
+.env.local
+.env*.local
+# logs
+npm-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+git rm --cached .env.local
+git add .gitignore
+git commit -m "Stop tracking .env.local and ignore env files"
+git push
